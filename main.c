@@ -1,5 +1,13 @@
+/*
+ ============================================================================
+ Name        : Hello World!
+ Author      : Nisha Yadav
+ Description : As you can see this is my first program in C. 
+ ============================================================================
+ */
+
 #include <stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
     printf("hello world!\n");
 
